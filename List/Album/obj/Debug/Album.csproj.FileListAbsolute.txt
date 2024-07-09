@@ -1,0 +1,7 @@
+C:\Users\Ranie Gobres\Desktop\asd\Album\Album\bin\Debug\Album.exe.config
+C:\Users\Ranie Gobres\Desktop\asd\Album\Album\bin\Debug\Album.exe
+C:\Users\Ranie Gobres\Desktop\asd\Album\Album\bin\Debug\Album.pdb
+C:\Users\Ranie Gobres\Desktop\asd\Album\Album\obj\Debug\Album.csproj.AssemblyReference.cache
+C:\Users\Ranie Gobres\Desktop\asd\Album\Album\obj\Debug\Album.csproj.CoreCompileInputs.cache
+C:\Users\Ranie Gobres\Desktop\asd\Album\Album\obj\Debug\Album.exe
+C:\Users\Ranie Gobres\Desktop\asd\Album\Album\obj\Debug\Album.pdb
